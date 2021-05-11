@@ -20,12 +20,11 @@ namespace Composição.Entities
         {
         }
 
-        public Order(DateTime moment, OrderStatus status, Client client, List<OrderItem> items)
+        public Order(DateTime moment, OrderStatus status, Client client)
         {
             Moment = moment;
             Status = status;
             Client = client;
-            Items = items;
         }
 
         public void AddItem(OrderItem item)

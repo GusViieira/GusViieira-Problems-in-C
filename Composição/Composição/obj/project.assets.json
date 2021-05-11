@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\gustavo.ribeiro\\source\\repos\\Composição\\Composição\\Composição.csproj",
+      "projectUniqueName": "C:\\Users\\gustavo.ribeiro\\Source\\Repos\\GusViieira\\Problems-in-C\\Composição\\Composição\\Composição.csproj",
       "projectName": "Composição",
-      "projectPath": "C:\\Users\\gustavo.ribeiro\\source\\repos\\Composição\\Composição\\Composição.csproj",
+      "projectPath": "C:\\Users\\gustavo.ribeiro\\Source\\Repos\\GusViieira\\Problems-in-C\\Composição\\Composição\\Composição.csproj",
       "packagesPath": "C:\\Users\\gustavo.ribeiro\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\gustavo.ribeiro\\source\\repos\\Composição\\Composição\\obj\\",
+      "outputPath": "C:\\Users\\gustavo.ribeiro\\Source\\Repos\\GusViieira\\Problems-in-C\\Composição\\Composição\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
